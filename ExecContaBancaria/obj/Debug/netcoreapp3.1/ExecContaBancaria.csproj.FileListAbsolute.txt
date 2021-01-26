@@ -1,0 +1,13 @@
+C:\Users\vidal\Documents\Dev\CursoCsharpUdemy\ExecContaBancaria\bin\Debug\netcoreapp3.1\ExecContaBancaria.exe
+C:\Users\vidal\Documents\Dev\CursoCsharpUdemy\ExecContaBancaria\bin\Debug\netcoreapp3.1\ExecContaBancaria.deps.json
+C:\Users\vidal\Documents\Dev\CursoCsharpUdemy\ExecContaBancaria\bin\Debug\netcoreapp3.1\ExecContaBancaria.runtimeconfig.json
+C:\Users\vidal\Documents\Dev\CursoCsharpUdemy\ExecContaBancaria\bin\Debug\netcoreapp3.1\ExecContaBancaria.runtimeconfig.dev.json
+C:\Users\vidal\Documents\Dev\CursoCsharpUdemy\ExecContaBancaria\bin\Debug\netcoreapp3.1\ExecContaBancaria.dll
+C:\Users\vidal\Documents\Dev\CursoCsharpUdemy\ExecContaBancaria\bin\Debug\netcoreapp3.1\ExecContaBancaria.pdb
+C:\Users\vidal\Documents\Dev\CursoCsharpUdemy\ExecContaBancaria\obj\Debug\netcoreapp3.1\ExecContaBancaria.csprojAssemblyReference.cache
+C:\Users\vidal\Documents\Dev\CursoCsharpUdemy\ExecContaBancaria\obj\Debug\netcoreapp3.1\ExecContaBancaria.AssemblyInfoInputs.cache
+C:\Users\vidal\Documents\Dev\CursoCsharpUdemy\ExecContaBancaria\obj\Debug\netcoreapp3.1\ExecContaBancaria.AssemblyInfo.cs
+C:\Users\vidal\Documents\Dev\CursoCsharpUdemy\ExecContaBancaria\obj\Debug\netcoreapp3.1\ExecContaBancaria.csproj.CoreCompileInputs.cache
+C:\Users\vidal\Documents\Dev\CursoCsharpUdemy\ExecContaBancaria\obj\Debug\netcoreapp3.1\ExecContaBancaria.dll
+C:\Users\vidal\Documents\Dev\CursoCsharpUdemy\ExecContaBancaria\obj\Debug\netcoreapp3.1\ExecContaBancaria.pdb
+C:\Users\vidal\Documents\Dev\CursoCsharpUdemy\ExecContaBancaria\obj\Debug\netcoreapp3.1\ExecContaBancaria.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\vidal\Documents\Dev\CursoCsharpUdemy\ExecStruct\obj\Debug\netcoreapp3.1\ExecStruct.csprojAssemblyReference.cache
+C:\Users\vidal\Documents\Dev\CursoCsharpUdemy\ExecStruct\obj\Debug\netcoreapp3.1\ExecStruct.AssemblyInfoInputs.cache
+C:\Users\vidal\Documents\Dev\CursoCsharpUdemy\ExecStruct\obj\Debug\netcoreapp3.1\ExecStruct.AssemblyInfo.cs
+C:\Users\vidal\Documents\Dev\CursoCsharpUdemy\ExecStruct\obj\Debug\netcoreapp3.1\ExecStruct.csproj.CoreCompileInputs.cache
+C:\Users\vidal\Documents\Dev\CursoCsharpUdemy\ExecStruct\bin\Debug\netcoreapp3.1\ExecStruct.exe
+C:\Users\vidal\Documents\Dev\CursoCsharpUdemy\ExecStruct\bin\Debug\netcoreapp3.1\ExecStruct.deps.json
+C:\Users\vidal\Documents\Dev\CursoCsharpUdemy\ExecStruct\bin\Debug\netcoreapp3.1\ExecStruct.runtimeconfig.json
+C:\Users\vidal\Documents\Dev\CursoCsharpUdemy\ExecStruct\bin\Debug\netcoreapp3.1\ExecStruct.runtimeconfig.dev.json
+C:\Users\vidal\Documents\Dev\CursoCsharpUdemy\ExecStruct\bin\Debug\netcoreapp3.1\ExecStruct.dll
+C:\Users\vidal\Documents\Dev\CursoCsharpUdemy\ExecStruct\bin\Debug\netcoreapp3.1\ExecStruct.pdb
+C:\Users\vidal\Documents\Dev\CursoCsharpUdemy\ExecStruct\obj\Debug\netcoreapp3.1\ExecStruct.dll
+C:\Users\vidal\Documents\Dev\CursoCsharpUdemy\ExecStruct\obj\Debug\netcoreapp3.1\ExecStruct.pdb
+C:\Users\vidal\Documents\Dev\CursoCsharpUdemy\ExecStruct\obj\Debug\netcoreapp3.1\ExecStruct.genruntimeconfig.cache

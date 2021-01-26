@@ -1,0 +1,13 @@
+C:\Users\vidal\Documents\Dev\CursoCsharpUdemy\ExecTriangulo1\bin\Debug\netcoreapp3.1\ExecRetangulo.exe
+C:\Users\vidal\Documents\Dev\CursoCsharpUdemy\ExecTriangulo1\bin\Debug\netcoreapp3.1\ExecRetangulo.deps.json
+C:\Users\vidal\Documents\Dev\CursoCsharpUdemy\ExecTriangulo1\bin\Debug\netcoreapp3.1\ExecRetangulo.runtimeconfig.json
+C:\Users\vidal\Documents\Dev\CursoCsharpUdemy\ExecTriangulo1\bin\Debug\netcoreapp3.1\ExecRetangulo.runtimeconfig.dev.json
+C:\Users\vidal\Documents\Dev\CursoCsharpUdemy\ExecTriangulo1\bin\Debug\netcoreapp3.1\ExecRetangulo.dll
+C:\Users\vidal\Documents\Dev\CursoCsharpUdemy\ExecTriangulo1\bin\Debug\netcoreapp3.1\ExecRetangulo.pdb
+C:\Users\vidal\Documents\Dev\CursoCsharpUdemy\ExecTriangulo1\obj\Debug\netcoreapp3.1\ExecRetangulo.csprojAssemblyReference.cache
+C:\Users\vidal\Documents\Dev\CursoCsharpUdemy\ExecTriangulo1\obj\Debug\netcoreapp3.1\ExecRetangulo.AssemblyInfoInputs.cache
+C:\Users\vidal\Documents\Dev\CursoCsharpUdemy\ExecTriangulo1\obj\Debug\netcoreapp3.1\ExecRetangulo.AssemblyInfo.cs
+C:\Users\vidal\Documents\Dev\CursoCsharpUdemy\ExecTriangulo1\obj\Debug\netcoreapp3.1\ExecRetangulo.csproj.CoreCompileInputs.cache
+C:\Users\vidal\Documents\Dev\CursoCsharpUdemy\ExecTriangulo1\obj\Debug\netcoreapp3.1\ExecRetangulo.dll
+C:\Users\vidal\Documents\Dev\CursoCsharpUdemy\ExecTriangulo1\obj\Debug\netcoreapp3.1\ExecRetangulo.pdb
+C:\Users\vidal\Documents\Dev\CursoCsharpUdemy\ExecTriangulo1\obj\Debug\netcoreapp3.1\ExecRetangulo.genruntimeconfig.cache

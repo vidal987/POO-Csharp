@@ -1,0 +1,13 @@
+C:\Users\vidal\Documents\Dev\CursoCsharpUdemy\ExecSalarioFunc\bin\Debug\netcoreapp3.1\ExecSalarioFunc.exe
+C:\Users\vidal\Documents\Dev\CursoCsharpUdemy\ExecSalarioFunc\bin\Debug\netcoreapp3.1\ExecSalarioFunc.deps.json
+C:\Users\vidal\Documents\Dev\CursoCsharpUdemy\ExecSalarioFunc\bin\Debug\netcoreapp3.1\ExecSalarioFunc.runtimeconfig.json
+C:\Users\vidal\Documents\Dev\CursoCsharpUdemy\ExecSalarioFunc\bin\Debug\netcoreapp3.1\ExecSalarioFunc.runtimeconfig.dev.json
+C:\Users\vidal\Documents\Dev\CursoCsharpUdemy\ExecSalarioFunc\bin\Debug\netcoreapp3.1\ExecSalarioFunc.dll
+C:\Users\vidal\Documents\Dev\CursoCsharpUdemy\ExecSalarioFunc\bin\Debug\netcoreapp3.1\ExecSalarioFunc.pdb
+C:\Users\vidal\Documents\Dev\CursoCsharpUdemy\ExecSalarioFunc\obj\Debug\netcoreapp3.1\ExecSalarioFunc.csprojAssemblyReference.cache
+C:\Users\vidal\Documents\Dev\CursoCsharpUdemy\ExecSalarioFunc\obj\Debug\netcoreapp3.1\ExecSalarioFunc.AssemblyInfoInputs.cache
+C:\Users\vidal\Documents\Dev\CursoCsharpUdemy\ExecSalarioFunc\obj\Debug\netcoreapp3.1\ExecSalarioFunc.AssemblyInfo.cs
+C:\Users\vidal\Documents\Dev\CursoCsharpUdemy\ExecSalarioFunc\obj\Debug\netcoreapp3.1\ExecSalarioFunc.csproj.CoreCompileInputs.cache
+C:\Users\vidal\Documents\Dev\CursoCsharpUdemy\ExecSalarioFunc\obj\Debug\netcoreapp3.1\ExecSalarioFunc.dll
+C:\Users\vidal\Documents\Dev\CursoCsharpUdemy\ExecSalarioFunc\obj\Debug\netcoreapp3.1\ExecSalarioFunc.pdb
+C:\Users\vidal\Documents\Dev\CursoCsharpUdemy\ExecSalarioFunc\obj\Debug\netcoreapp3.1\ExecSalarioFunc.genruntimeconfig.cache

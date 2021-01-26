@@ -1,0 +1,13 @@
+C:\Users\vidal\Documents\Dev\CursoCsharpUdemy\ExecConversorDolarEstatico\bin\Debug\netcoreapp3.1\ExecConversorDolarEstatico.exe
+C:\Users\vidal\Documents\Dev\CursoCsharpUdemy\ExecConversorDolarEstatico\bin\Debug\netcoreapp3.1\ExecConversorDolarEstatico.deps.json
+C:\Users\vidal\Documents\Dev\CursoCsharpUdemy\ExecConversorDolarEstatico\bin\Debug\netcoreapp3.1\ExecConversorDolarEstatico.runtimeconfig.json
+C:\Users\vidal\Documents\Dev\CursoCsharpUdemy\ExecConversorDolarEstatico\bin\Debug\netcoreapp3.1\ExecConversorDolarEstatico.runtimeconfig.dev.json
+C:\Users\vidal\Documents\Dev\CursoCsharpUdemy\ExecConversorDolarEstatico\bin\Debug\netcoreapp3.1\ExecConversorDolarEstatico.dll
+C:\Users\vidal\Documents\Dev\CursoCsharpUdemy\ExecConversorDolarEstatico\bin\Debug\netcoreapp3.1\ExecConversorDolarEstatico.pdb
+C:\Users\vidal\Documents\Dev\CursoCsharpUdemy\ExecConversorDolarEstatico\obj\Debug\netcoreapp3.1\ExecConversorDolarEstatico.csprojAssemblyReference.cache
+C:\Users\vidal\Documents\Dev\CursoCsharpUdemy\ExecConversorDolarEstatico\obj\Debug\netcoreapp3.1\ExecConversorDolarEstatico.AssemblyInfoInputs.cache
+C:\Users\vidal\Documents\Dev\CursoCsharpUdemy\ExecConversorDolarEstatico\obj\Debug\netcoreapp3.1\ExecConversorDolarEstatico.AssemblyInfo.cs
+C:\Users\vidal\Documents\Dev\CursoCsharpUdemy\ExecConversorDolarEstatico\obj\Debug\netcoreapp3.1\ExecConversorDolarEstatico.csproj.CoreCompileInputs.cache
+C:\Users\vidal\Documents\Dev\CursoCsharpUdemy\ExecConversorDolarEstatico\obj\Debug\netcoreapp3.1\ExecConversorDolarEstatico.dll
+C:\Users\vidal\Documents\Dev\CursoCsharpUdemy\ExecConversorDolarEstatico\obj\Debug\netcoreapp3.1\ExecConversorDolarEstatico.pdb
+C:\Users\vidal\Documents\Dev\CursoCsharpUdemy\ExecConversorDolarEstatico\obj\Debug\netcoreapp3.1\ExecConversorDolarEstatico.genruntimeconfig.cache

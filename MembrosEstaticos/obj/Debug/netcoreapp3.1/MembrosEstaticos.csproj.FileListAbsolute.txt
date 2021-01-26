@@ -1,0 +1,13 @@
+C:\Users\vidal\Documents\Dev\CursoCsharpUdemy\MembrosEstaticos\bin\Debug\netcoreapp3.1\MembrosEstaticos.exe
+C:\Users\vidal\Documents\Dev\CursoCsharpUdemy\MembrosEstaticos\bin\Debug\netcoreapp3.1\MembrosEstaticos.deps.json
+C:\Users\vidal\Documents\Dev\CursoCsharpUdemy\MembrosEstaticos\bin\Debug\netcoreapp3.1\MembrosEstaticos.runtimeconfig.json
+C:\Users\vidal\Documents\Dev\CursoCsharpUdemy\MembrosEstaticos\bin\Debug\netcoreapp3.1\MembrosEstaticos.runtimeconfig.dev.json
+C:\Users\vidal\Documents\Dev\CursoCsharpUdemy\MembrosEstaticos\bin\Debug\netcoreapp3.1\MembrosEstaticos.dll
+C:\Users\vidal\Documents\Dev\CursoCsharpUdemy\MembrosEstaticos\bin\Debug\netcoreapp3.1\MembrosEstaticos.pdb
+C:\Users\vidal\Documents\Dev\CursoCsharpUdemy\MembrosEstaticos\obj\Debug\netcoreapp3.1\MembrosEstaticos.csprojAssemblyReference.cache
+C:\Users\vidal\Documents\Dev\CursoCsharpUdemy\MembrosEstaticos\obj\Debug\netcoreapp3.1\MembrosEstaticos.AssemblyInfoInputs.cache
+C:\Users\vidal\Documents\Dev\CursoCsharpUdemy\MembrosEstaticos\obj\Debug\netcoreapp3.1\MembrosEstaticos.AssemblyInfo.cs
+C:\Users\vidal\Documents\Dev\CursoCsharpUdemy\MembrosEstaticos\obj\Debug\netcoreapp3.1\MembrosEstaticos.csproj.CoreCompileInputs.cache
+C:\Users\vidal\Documents\Dev\CursoCsharpUdemy\MembrosEstaticos\obj\Debug\netcoreapp3.1\MembrosEstaticos.dll
+C:\Users\vidal\Documents\Dev\CursoCsharpUdemy\MembrosEstaticos\obj\Debug\netcoreapp3.1\MembrosEstaticos.pdb
+C:\Users\vidal\Documents\Dev\CursoCsharpUdemy\MembrosEstaticos\obj\Debug\netcoreapp3.1\MembrosEstaticos.genruntimeconfig.cache

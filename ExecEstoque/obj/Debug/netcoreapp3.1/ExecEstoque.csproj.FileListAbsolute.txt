@@ -1,0 +1,13 @@
+C:\Users\vidal\Documents\Dev\CursoCsharpUdemy\ExecEstoque\bin\Debug\netcoreapp3.1\ExecEstoque.exe
+C:\Users\vidal\Documents\Dev\CursoCsharpUdemy\ExecEstoque\bin\Debug\netcoreapp3.1\ExecEstoque.deps.json
+C:\Users\vidal\Documents\Dev\CursoCsharpUdemy\ExecEstoque\bin\Debug\netcoreapp3.1\ExecEstoque.runtimeconfig.json
+C:\Users\vidal\Documents\Dev\CursoCsharpUdemy\ExecEstoque\bin\Debug\netcoreapp3.1\ExecEstoque.runtimeconfig.dev.json
+C:\Users\vidal\Documents\Dev\CursoCsharpUdemy\ExecEstoque\bin\Debug\netcoreapp3.1\ExecEstoque.dll
+C:\Users\vidal\Documents\Dev\CursoCsharpUdemy\ExecEstoque\bin\Debug\netcoreapp3.1\ExecEstoque.pdb
+C:\Users\vidal\Documents\Dev\CursoCsharpUdemy\ExecEstoque\obj\Debug\netcoreapp3.1\ExecEstoque.AssemblyInfoInputs.cache
+C:\Users\vidal\Documents\Dev\CursoCsharpUdemy\ExecEstoque\obj\Debug\netcoreapp3.1\ExecEstoque.AssemblyInfo.cs
+C:\Users\vidal\Documents\Dev\CursoCsharpUdemy\ExecEstoque\obj\Debug\netcoreapp3.1\ExecEstoque.csproj.CoreCompileInputs.cache
+C:\Users\vidal\Documents\Dev\CursoCsharpUdemy\ExecEstoque\obj\Debug\netcoreapp3.1\ExecEstoque.dll
+C:\Users\vidal\Documents\Dev\CursoCsharpUdemy\ExecEstoque\obj\Debug\netcoreapp3.1\ExecEstoque.pdb
+C:\Users\vidal\Documents\Dev\CursoCsharpUdemy\ExecEstoque\obj\Debug\netcoreapp3.1\ExecEstoque.genruntimeconfig.cache
+C:\Users\vidal\Documents\Dev\CursoCsharpUdemy\ExecEstoque\obj\Debug\netcoreapp3.1\ExecEstoque.csprojAssemblyReference.cache

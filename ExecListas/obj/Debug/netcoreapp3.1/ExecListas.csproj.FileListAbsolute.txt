@@ -1,0 +1,13 @@
+C:\Users\vidal\Documents\Dev\CursoCsharpUdemy\ExecListas\bin\Debug\netcoreapp3.1\ExecListas.exe
+C:\Users\vidal\Documents\Dev\CursoCsharpUdemy\ExecListas\bin\Debug\netcoreapp3.1\ExecListas.deps.json
+C:\Users\vidal\Documents\Dev\CursoCsharpUdemy\ExecListas\bin\Debug\netcoreapp3.1\ExecListas.runtimeconfig.json
+C:\Users\vidal\Documents\Dev\CursoCsharpUdemy\ExecListas\bin\Debug\netcoreapp3.1\ExecListas.runtimeconfig.dev.json
+C:\Users\vidal\Documents\Dev\CursoCsharpUdemy\ExecListas\bin\Debug\netcoreapp3.1\ExecListas.dll
+C:\Users\vidal\Documents\Dev\CursoCsharpUdemy\ExecListas\bin\Debug\netcoreapp3.1\ExecListas.pdb
+C:\Users\vidal\Documents\Dev\CursoCsharpUdemy\ExecListas\obj\Debug\netcoreapp3.1\ExecListas.csprojAssemblyReference.cache
+C:\Users\vidal\Documents\Dev\CursoCsharpUdemy\ExecListas\obj\Debug\netcoreapp3.1\ExecListas.AssemblyInfoInputs.cache
+C:\Users\vidal\Documents\Dev\CursoCsharpUdemy\ExecListas\obj\Debug\netcoreapp3.1\ExecListas.AssemblyInfo.cs
+C:\Users\vidal\Documents\Dev\CursoCsharpUdemy\ExecListas\obj\Debug\netcoreapp3.1\ExecListas.csproj.CoreCompileInputs.cache
+C:\Users\vidal\Documents\Dev\CursoCsharpUdemy\ExecListas\obj\Debug\netcoreapp3.1\ExecListas.dll
+C:\Users\vidal\Documents\Dev\CursoCsharpUdemy\ExecListas\obj\Debug\netcoreapp3.1\ExecListas.pdb
+C:\Users\vidal\Documents\Dev\CursoCsharpUdemy\ExecListas\obj\Debug\netcoreapp3.1\ExecListas.genruntimeconfig.cache
