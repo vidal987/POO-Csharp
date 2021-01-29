@@ -47,9 +47,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExecForEach", "ExecForEach\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExecListas", "ExecListas\ExecListas.csproj", "{A0FBE722-96CD-4A00-9CED-3646D1A04288}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExecMatrizes", "ExecMatrizes\ExecMatrizes.csproj", "{D8365795-F016-4F33-B172-765166FE19EB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExecMatrizes", "ExecMatrizes\ExecMatrizes.csproj", "{D8365795-F016-4F33-B172-765166FE19EB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExecSwitchCase", "ExecSwitchCase\ExecSwitchCase.csproj", "{B4743D1C-1EB0-48C3-8FB3-F18FC718858F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExecSwitchCase", "ExecSwitchCase\ExecSwitchCase.csproj", "{B4743D1C-1EB0-48C3-8FB3-F18FC718858F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExecEnum1", "ExecEnum1\ExecEnum1.csproj", "{54754CF5-0CED-4883-AFC6-AE1B11E1BB0E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -153,6 +155,10 @@ Global
 		{B4743D1C-1EB0-48C3-8FB3-F18FC718858F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B4743D1C-1EB0-48C3-8FB3-F18FC718858F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B4743D1C-1EB0-48C3-8FB3-F18FC718858F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54754CF5-0CED-4883-AFC6-AE1B11E1BB0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54754CF5-0CED-4883-AFC6-AE1B11E1BB0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54754CF5-0CED-4883-AFC6-AE1B11E1BB0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54754CF5-0CED-4883-AFC6-AE1B11E1BB0E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
