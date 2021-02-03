@@ -1,0 +1,13 @@
+C:\Users\vidal\Documents\Dev\CursoCsharpUdemy\ExecComposicao\obj\Debug\netcoreapp3.1\ExecComposicao.csprojAssemblyReference.cache
+C:\Users\vidal\Documents\Dev\CursoCsharpUdemy\ExecComposicao\obj\Debug\netcoreapp3.1\ExecComposicao.AssemblyInfoInputs.cache
+C:\Users\vidal\Documents\Dev\CursoCsharpUdemy\ExecComposicao\obj\Debug\netcoreapp3.1\ExecComposicao.AssemblyInfo.cs
+C:\Users\vidal\Documents\Dev\CursoCsharpUdemy\ExecComposicao\obj\Debug\netcoreapp3.1\ExecComposicao.csproj.CoreCompileInputs.cache
+C:\Users\vidal\Documents\Dev\CursoCsharpUdemy\ExecComposicao\bin\Debug\netcoreapp3.1\ExecComposicao.exe
+C:\Users\vidal\Documents\Dev\CursoCsharpUdemy\ExecComposicao\bin\Debug\netcoreapp3.1\ExecComposicao.deps.json
+C:\Users\vidal\Documents\Dev\CursoCsharpUdemy\ExecComposicao\bin\Debug\netcoreapp3.1\ExecComposicao.runtimeconfig.json
+C:\Users\vidal\Documents\Dev\CursoCsharpUdemy\ExecComposicao\bin\Debug\netcoreapp3.1\ExecComposicao.runtimeconfig.dev.json
+C:\Users\vidal\Documents\Dev\CursoCsharpUdemy\ExecComposicao\bin\Debug\netcoreapp3.1\ExecComposicao.dll
+C:\Users\vidal\Documents\Dev\CursoCsharpUdemy\ExecComposicao\bin\Debug\netcoreapp3.1\ExecComposicao.pdb
+C:\Users\vidal\Documents\Dev\CursoCsharpUdemy\ExecComposicao\obj\Debug\netcoreapp3.1\ExecComposicao.dll
+C:\Users\vidal\Documents\Dev\CursoCsharpUdemy\ExecComposicao\obj\Debug\netcoreapp3.1\ExecComposicao.pdb
+C:\Users\vidal\Documents\Dev\CursoCsharpUdemy\ExecComposicao\obj\Debug\netcoreapp3.1\ExecComposicao.genruntimeconfig.cache
