@@ -57,7 +57,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExecComposicao", "ExecCompo
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExecComposicao2", "ExecComposicao2\ExecComposicao2.csproj", "{D8FF3546-3380-4C7E-9A28-DD795EF60113}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExecHeranca1", "ExecHeranca1\ExecHeranca1.csproj", "{0857CFA0-902F-4540-820E-9F64EF1FDD28}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExecHeranca1", "ExecHeranca1\ExecHeranca1.csproj", "{0857CFA0-902F-4540-820E-9F64EF1FDD28}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExecPolimorfismo", "ExecPolimorfismo\ExecPolimorfismo.csproj", "{343782D6-77FA-43DE-BF7A-344E30D61D73}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -177,6 +179,10 @@ Global
 		{0857CFA0-902F-4540-820E-9F64EF1FDD28}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0857CFA0-902F-4540-820E-9F64EF1FDD28}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0857CFA0-902F-4540-820E-9F64EF1FDD28}.Release|Any CPU.Build.0 = Release|Any CPU
+		{343782D6-77FA-43DE-BF7A-344E30D61D73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{343782D6-77FA-43DE-BF7A-344E30D61D73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{343782D6-77FA-43DE-BF7A-344E30D61D73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{343782D6-77FA-43DE-BF7A-344E30D61D73}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
