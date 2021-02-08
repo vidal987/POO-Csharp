@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uYbIZyOHE0/JzKLf53VWkVDwfRPDj+jo81ZSpw9x/ta/JI8jH0YYNR0QSob3qFoJA5mFG/x38HxhOoZphGdRaA==",
+  "dgSpecHash": "070/B6vCsFhM1iqd8myuOuO3yx/hkWS1WvpKEy8qVpSOusts5IlRr/WefKEFAAtEQ+jFDtUr5daPSi1ruoBsTg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\vidal\\Documents\\Dev\\CursoCsharpUdemy\\ExecContaBancaria\\ExecContaBancaria.csproj",
+  "projectFilePath": "C:\\Users\\Vidal\\Documents\\Dev\\POO-Csharp\\ExecContaBancaria\\ExecContaBancaria.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
